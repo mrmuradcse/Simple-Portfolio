@@ -28,3 +28,15 @@ h1{
 section{
     height: 500px;
 }
+p{
+    color: darkgray;
+}
+
+.hire-btn{
+    text-decoration: none;
+    background: linear-gradient( 45deg, lightSalmon, tomato);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    }
