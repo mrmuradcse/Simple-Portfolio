@@ -12,7 +12,7 @@ h1{
 .half-width{
     width: 40%;
     margin-left: 5%;
-    padding: 2%;
+    padding-left: 2%;
     float: left;
 }
 
@@ -29,10 +29,10 @@ section{
     height: 500px;
 }
 p{
-    color: darkgray;
+    color: dimgray;
 }
 
-.hire-btn{
+.link-btn{
     text-decoration: none;
     background: linear-gradient( 45deg, lightSalmon, tomato);
     border-radius: 5px;
@@ -40,3 +40,12 @@ p{
     color: white;
     font-weight: 700;
     }
+h2{
+    font-size: 40px;
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
