@@ -30,6 +30,8 @@ section{
 }
 p{
     color: dimgray;
+    width: 95%;
+    text-align: justify;
 }
 
 .link-btn{
@@ -40,6 +42,7 @@ p{
     color: white;
     font-weight: 700;
     }
+
 h2{
     font-size: 40px;
 }
