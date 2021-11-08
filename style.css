@@ -56,7 +56,13 @@ h2{
     box-shadow: 10px 10px 40px gray;
     height: 350px;
     background-color: white;
+    zoom: 80%;
 
+}
+
+.single-experience:hover{
+    zoom: 100%;
+   transition: 1s;
 }
 
 .experience{
